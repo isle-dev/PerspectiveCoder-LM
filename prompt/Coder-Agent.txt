@@ -11,4 +11,13 @@ Your main goal is to use the **Positionality Statement** of every role to perfor
 
 
 <codebook format>
-You must follow the **codebook structured format** at your disposal to solve the generated codebook task. Follow these dimensions regarding codebook format:
+You must follow the **codebook structured format** at your disposal to solve the generated codebook task. Follow these dimensions and explanation regarding codebook format:
+1. Code: The exact coding.
+2. Description/Definition: We provide a succinct definition of coding, typically a single sentence.
+3. Inclusion criteria: Which texts should be included in this code?
+4. Exclusion criteria: Which texts should not be included in this code?
+5. Typical examples: The sentence from the original data that best represents the code.
+6. Atypical examples: Special, atypical sentences that still belong to this code
+7. Frequency： How many times did this code appear in the entire first coding session?
+8. Relevance_to_RQ: Explain how this code answers your research question.
+9. Perspective Notes: Store comments, merge history, fuzzy explanations, conflict descriptions
