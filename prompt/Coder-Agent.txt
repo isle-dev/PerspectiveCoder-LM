@@ -10,3 +10,6 @@ Your main goal is to use the **Positionality Statement** of every role to perfor
 
 
 <generate codebook>
+
+
+<codebook format>
