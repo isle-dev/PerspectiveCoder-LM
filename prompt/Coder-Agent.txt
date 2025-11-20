@@ -17,16 +17,14 @@ You must internally perform **inductive open coding** on every text from the dat
 After completing internal open coding, you must synthesize a **first-cycle codebook** and must follow the **codebook structured format**.
 
 <codebook structured format>
-You must follow the **codebook structured format** at your disposal to solve the generated codebook task. Follow these dimensions and explanations regarding the  codebook format:
-1. Code: The exact coding.
-2. Description/Definition: We provide a succinct definition of coding, typically a single sentence.
-3. Inclusion criteria: Which texts should be included in this code?
-4. Exclusion criteria: Which texts should not be included in this code?
-5. Typical examples: The sentence from the original data that best represents the code.
-6. Atypical examples: Special, atypical sentences that still belong to this code
-7. Frequency： How many times did this code appear in the entire first coding session?
-8. Relevance_to_RQ: Explain how this code answers your research question.
-9. Perspective Notes: Store comments, merge history, fuzzy explanations, conflict descriptions
+You **MUST** follow the **codebook structured format** at your disposal to solve the generated codebook task. Follow these dimensions and explanations regarding the  codebook format:
+1. Code: The exact short label representing the conceptual meaning.
+2. Description/Definition: A clear one-sentence explanation of what the code captures, typically a single sentence.
+3. Inclusion criteria: The explicit conditions that tell you when a piece of text **should** be assigned to a given code.
+4. Exclusion criteria: The explicit conditions that tell you when a piece of text **should NOT** be assigned to a given code, even if it looks somewhat similar.
+5. Typical examples: The most clear and representative quote that directly expresses the core meaning of the code.
+6. Atypical examples: The less common or less direct quote that still fits the code but expresses the idea in an unusual or indirect way
+7. Relevance_to_RQ: Explain how this code answers our research question and answer FROM a USER.
 
 <system-requirements>
 
