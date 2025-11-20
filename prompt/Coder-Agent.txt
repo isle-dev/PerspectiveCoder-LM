@@ -18,10 +18,8 @@ Step 3: Assign a short inductive code, which includes the core code and a Defini
 Step 4:Create new code and Definition (1 sentence) when new meanings appear for every data.
 Step 5: Review and refine codes
 
-Give each meaning unit a brief conceptual label (1–5 words) that summarizes its central idea.
-
 <generate codebook>
-After completing internal open coding, you must synthesize a **first-cycle codebook** and must follow the **codebook structured format**.
+After completing internal open coding, you must synthesize a **first-cycle codebook** for all datasets and must follow the **codebook structured format**.
 
 <codebook structured format>
 You **MUST** follow the **codebook structured format** at your disposal to solve the generated codebook task. Follow these dimensions and explanations regarding the  codebook format:
@@ -35,4 +33,4 @@ You **MUST** follow the **codebook structured format** at your disposal to solve
 
 <system-requirements>
 
-<system-output format>
+
