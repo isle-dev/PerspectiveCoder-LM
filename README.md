@@ -2,6 +2,21 @@
 A command-line workflow for generating qualitative research codebooks with multi-agent large language model discussions. The entry point `main.py` orchestrates loading interview data, instantiating role-playing agents, and exporting baseline and discussion codebooks.
 
 <a href="https://chat.lmsys.org"><img src="Images/systemintro.png" width="70%"></a>
+
+<p align="center">
+  <sub>System Introduction</sub>  
+</p> 
+
+<p align="center">
+  <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">
+    <img src="Images/systemintro.png" alt="Logo" width="700"/>
+  </a>
+</p>
+
+<div align="center" markdown="1">
+
+
+
 ## Features
 - Multi-agent discussion pipeline (`experiment_discuss_flow`) that coordinates three coding agents plus reviewer, discussion lead, and judge roles.
 - Single-agent baseline pipeline (`experiment_single_flow`) for comparison studies.
