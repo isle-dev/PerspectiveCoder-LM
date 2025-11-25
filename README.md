@@ -1,4 +1,4 @@
-# PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Coding Analysis 
+# PerspectiveCoder-LM: A LLM-based Multi-perspective-agent System for Large-scale Corpus Inductive Coding Analysis 
 A command-line workflow for generating qualitative research codebooks with multi-agent large language model discussions. The entry point `main.py` orchestrates loading interview data, instantiating role-playing agents, and exporting baseline and discussion codebooks.
 
 <a href="https://chat.lmsys.org"><img src="Images/systemintro.png" width="70%"></a>
