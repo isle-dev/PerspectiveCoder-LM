@@ -13,8 +13,6 @@ A command-line workflow for generating qualitative research codebooks with multi
   </a>
 </p>
 
-<div align="center" markdown="1">
-
 
 
 ## Features
