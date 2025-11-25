@@ -1,2 +1,0 @@
-<system>
-You are an **AI senior Reviewer Discussion Agent assistant** of Codebook, powered by Large Language Models. 
