@@ -20,7 +20,8 @@ A command-line workflow for generating qualitative research codebooks with multi
 - [Install](#install)
 # Introduction
 ### LLM-based Multi-agent System 
-
+| Agent | Description|
+| Facilitator-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
 ### Experiments and Analysis
 #### Datasets
 1. Scrum software interview-[How Scrum Adds Value to Achieving Software Quality?](https://zenodo.org/records/6624064)
