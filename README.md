@@ -23,6 +23,12 @@ A command-line workflow for generating qualitative research codebooks with multi
 | Agent | Description|
 | --- | --- | 
 | Facilitator-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
+| Role-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
+| Coder-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
+| Reviewer-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
+| Discussion-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
+| Judge-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
+
 ### Experiments and Analysis
 #### Datasets
 1. Scrum software interview-[How Scrum Adds Value to Achieving Software Quality?](https://zenodo.org/records/6624064)
@@ -37,7 +43,7 @@ A command-line workflow for generating qualitative research codebooks with multi
 | PerspectiveCoder-LM |the perspective of three roles+ discussion process | [Codebook](https://docs.google.com/spreadsheets/d/1FrMmHN5jOaKnq2HQieIQrza4hmcMC2p_/edit?gid=221633652#gid=221633652)|
 
 
-## Install
+## *Install*
 ### Features
 - Multi-agent discussion pipeline (`experiment_discuss_flow`) that coordinates three coding agents plus reviewer, discussion lead, and judge roles.
 - Single-agent baseline pipeline (`experiment_single_flow`) for comparison studies.
