@@ -26,9 +26,9 @@ A command-line workflow for generating qualitative research codebooks with multi
 Study 1: [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
 | Baseline | Description | Results|
 | --- | --- | --- |
-| Baseline1 | Single LLM + no perspective+ no discussion | [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)|
-| Baseline2 | Three LLM + the same setting perspective of three roles with PerspectiveCoder-LM + no discussion | [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)|
-| PerspectiveCoder-LM |the perspective of three roles+ | [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)|
+| Baseline1 | Single LLM + no perspective+ no discussion | [Codebook](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)|
+| Baseline2 | Three LLM + the same setting perspective of three roles with PerspectiveCoder-LM + no discussion | [Codebook](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)|
+| PerspectiveCoder-LM |the perspective of three roles+ discussion process | [Codebook](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)|
 
 
 
