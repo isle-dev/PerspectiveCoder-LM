@@ -16,12 +16,10 @@ A command-line workflow for generating qualitative research codebooks with multi
 
 ## Contents
 
-- [Introduction](#Introduction)
+- [Introduction](#Introduction) [Project Management](https://docs.google.com/document/d/1yQeDEgtlWTl9SLAgr3bBJ9_l59sWQwWXsGzLFwkRVKY/edit?tab=t.utp4mklu2c15)
 - [Install](#install)
 # Introduction
 
-### Project 
-[Management-Google Doc](https://docs.google.com/document/d/1yQeDEgtlWTl9SLAgr3bBJ9_l59sWQwWXsGzLFwkRVKY/edit?tab=t.utp4mklu2c15)
 
 ### Experiments 
 #### Study 1: [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
