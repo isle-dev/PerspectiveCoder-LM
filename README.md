@@ -24,13 +24,10 @@ A command-line workflow for generating qualitative research codebooks with multi
 | --- | --- | 
 | Facilitator-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
 | Role-Agent | Generate a Positionality Statement for every role(Identity, Academic Level, Discipline, Research Interests, Biases/Assumptions, etc.)|
-| Coder-Agent | For each role:
-- Use the Positionality Statement to perform Open Coding
-- Generate a full initial codebook from every role
-- The codebook must follow the structured format |
-| Reviewer-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
-| Discussion-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
-| Judge-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
+| Coder-Agent | For each role: Use the Positionality Statement to perform Open Coding, generate a full initial codebook from every role. The codebook must follow the structured format |
+| Reviewer-Agent | Codebook-Agreements/Disagreements|
+| Discussion-Agent | Combine their disagreements |
+| Judge-Agent | Decide what codes remain or should be removed and produce the final codebook|
 
 ### Experiments and Analysis
 #### Datasets
