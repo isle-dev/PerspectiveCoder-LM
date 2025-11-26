@@ -1,8 +1,7 @@
 # PerspectiveCoder-LM: A LLM-based Multi-perspective-agent System for Large-scale Corpus Inductive Coding Analysis 
 | [**Paper**]()|
 
-A command-line workflow for generating qualitative research codebooks with multi-agent large language model discussions. The entry point `main.py` orchestrates loading interview data, instantiating role-playing agents, and exporting baseline and discussion codebooks.
-
+We propose PerspectiveCoder-LM, an LLM-based multi-perspective-agent system for large-scale inductive coding, which generates qualitative research codebooks with multi-agent large language model discussions by simulating multiple perspectives. PerspectiveCoder-LM assigns specialised tasks to each agent, such as role-generating multi-perspective positionality statements, inductive coding, review agreements/disagreements of codebooks, and discussion codebooks.
 
 <p align="center">
   <sub>System Introduction</sub>  
@@ -19,15 +18,18 @@ A command-line workflow for generating qualitative research codebooks with multi
 - [Introduction](#Introduction) [Project Management](https://docs.google.com/document/d/1yQeDEgtlWTl9SLAgr3bBJ9_l59sWQwWXsGzLFwkRVKY/edit?tab=t.utp4mklu2c15)
 - [Install](#install)
 # Introduction
+
+
+
 ### LLM-based Multi-agent System 
 | Agent | Description|
 | --- | --- | 
-| Facilitator-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
-| Role-Agent | Generate a Positionality Statement for every role(Identity, Academic Level, Discipline, Research Interests, Biases/Assumptions, etc.)|
-| Coder-Agent | For each role: Use the Positionality Statement to perform Open Coding, generate a full initial codebook from every role. The codebook must follow the structured format |
-| Reviewer-Agent | Codebook-Agreements/Disagreements|
-| Discussion-Agent | Combine their disagreements |
-| Judge-Agent | Decide what codes remain or should be removed and produce the final codebook|
+| Facilitator-Agent | Provide a **Prologue** for (human-AI interaction system): introduce the workflow, set the stage, or remind all agents of their roles and so on|
+| Role-Agent | Generate a **Positionality Statement** for every role to simulate the multi-perspective coding(Identity, Academic Level, Discipline, Research Interests, Biases/Assumptions, etc.)|
+| Coder-Agent | For each role: Use the Positionality Statement to perform **Open Coding**, generate a full **initial codebook from every role**. |
+| Reviewer-Agent | Review all **Codebook-Agreements/Disagreements** from the three role-generating initial codebooks|
+| Discussion-Agent | Combine their disagreements, start the **discussion process** |
+| Judge-Agent | **Decide what codes remain or are dropped** and produce the final codebook|
 
 ### Experiments and Analysis
 #### Datasets
