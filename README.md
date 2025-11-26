@@ -33,14 +33,14 @@ A command-line workflow for generating qualitative research codebooks with multi
 | PerspectiveCoder-LM |the perspective of three roles+ discussion process | [Codebook](https://docs.google.com/spreadsheets/d/1FrMmHN5jOaKnq2HQieIQrza4hmcMC2p_/edit?gid=221633652#gid=221633652)|
 
 
-
-## Features
+## Install
+### Features
 - Multi-agent discussion pipeline (`experiment_discuss_flow`) that coordinates three coding agents plus reviewer, discussion lead, and judge roles.
 - Single-agent baseline pipeline (`experiment_single_flow`) for comparison studies.
 - Automatic creation of experiment output folders and JSON exports.
 - Configurable through JSON configuration files and CLI arguments.
 
-## Project Layout
+### Project Layout
 ```
 PerspectiveCoder-LM/
 ├── main.py                 # CLI entry point (discuss & baseline flows)
@@ -49,7 +49,7 @@ PerspectiveCoder-LM/
 ├── utils/                  # Core agent orchestration utilities
 └── ...
 ```
-## Install
+
 ### Requirements
 - Python 3.10+
 - Dependencies listed in `requirements.txt`
