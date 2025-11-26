@@ -18,9 +18,10 @@ A command-line workflow for generating qualitative research codebooks with multi
 - [Install](#install)
 # Introduction
 ### Project 
-[Management](https://docs.google.com/document/d/1yQeDEgtlWTl9SLAgr3bBJ9_l59sWQwWXsGzLFwkRVKY/edit?tab=t.utp4mklu2c15)
+[Management-Google Doc](https://docs.google.com/document/d/1yQeDEgtlWTl9SLAgr3bBJ9_l59sWQwWXsGzLFwkRVKY/edit?tab=t.utp4mklu2c15)
 
-### Study 1 results link
+### results link
+Study 1: [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
 
 
 
@@ -39,7 +40,7 @@ PerspectiveCoder-LM/
 ├── utils/                  # Core agent orchestration utilities
 └── ...
 ```
-## install
+## Install
 ### Requirements
 - Python 3.10+
 - Dependencies listed in `requirements.txt`
