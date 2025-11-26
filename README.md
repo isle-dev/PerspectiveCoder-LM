@@ -24,11 +24,10 @@ A command-line workflow for generating qualitative research codebooks with multi
 
 ### results link
 Study 1: [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
-| Baseline | Results | Description |
+| Baseline | Description | Results|
 | --- | --- | --- |
-| Baseline1 | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
+| Baseline1 | Single LLM + no perspective | [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)|
+
 
 
 ## Features
