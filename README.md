@@ -12,6 +12,16 @@ A command-line workflow for generating qualitative research codebooks with multi
   </a>
 </p>
 
+## Contents
+
+- [Introduction](#Introduction)
+- [Install](#install)
+# Introduction
+### Project 
+[Management](https://docs.google.com/document/d/1yQeDEgtlWTl9SLAgr3bBJ9_l59sWQwWXsGzLFwkRVKY/edit?tab=t.utp4mklu2c15)
+
+### Study 1 results link
+
 
 
 ## Features
@@ -29,8 +39,8 @@ PerspectiveCoder-LM/
 ├── utils/                  # Core agent orchestration utilities
 └── ...
 ```
-
-## Requirements
+## install
+### Requirements
 - Python 3.10+
 - Dependencies listed in `requirements.txt`
 - Access to the target language models configured in `config/config.json`
@@ -39,7 +49,7 @@ PerspectiveCoder-LM/
 pip install -r requirements.txt
 ```
 
-## Command-Line Usage
+### Command-Line Usage
 `main.py` exposes a single CLI with several switches:
 
 ```powershell
@@ -62,26 +72,26 @@ python main.py `
 | `-rq`, `--research-question` | `""` | Research question context injected into agent prompts. |
 | `-exp`, `--experiment-name` | `0` | Experiment selector: `0` discuss flow, `1` single-agent baseline, `2` discuss flow with matched identities. |
 
-## Experiment Outputs
+### Experiment Outputs
 Depending on the experiment, the script writes JSON summaries under the chosen `output_dir`:
 - `discuss_process/json/discuss.json`: team discussion results with agreed and final codebooks plus token usage statistics.
 - `baseline1/json/baseline1.json`: single-agent codebook for the baseline condition.
 
 Experiment `0` and `2` require six roles (`Role1`, `Role2`, `Role3`, `Reviewer`, `Discussion`, `Judge`). Role identities are generated via `roles_identity_generate`, enriched with positionality and initial codebooks, and evaluated by the reviewer/discussion/judge trio. Experiment `1` runs only `Role1` through the baseline pipeline.
 
-## Customisation Tips
+### Customisation Tips
 - **Datasets**: Place new interview corpora under `Data/` and point `--input-file` at the desired JSON file.
 - **Configurations**: Update `config/discuss_config*.json` or `config/config.json` to tweak model endpoints, prompt templates, and stage settings.
 - **Role Assignments**: Pass a list to `--model-name` to mix different models across roles (e.g., `"gpt-4o,gpt-4o-mini,gpt-5"`).
 - **Research Question**: Supply a domain-specific question with `--research-question` to adjust agent framing.
 
-## Reproducing Default Run
+### Reproducing Default Run
 1. Ensure the default dataset `Scrum.json` exists at the processed path.
 2. Activate your environment and install dependencies.
 3. Execute the command shown in *Command-Line Usage* with `--experiment-name 0`.
 4. Inspect `Data/Scrum-interviews/gpt-4o_output/discuss_process/json/discuss.json` for the full discussion artifact.
 
-## Troubleshooting
+### Troubleshooting
 - Missing output folders: `main.py` creates the baseline and discussion directories when `--output-dir` does not exist, but upstream directories must already be present.
 - Invalid model mapping: ensure the number of models in a list equals the number of coding roles (excluding reviewer/discussion/judge).
 - JSON parsing errors: verify the dataset and configuration files contain valid UTF-8 encoded JSON.
