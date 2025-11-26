@@ -19,11 +19,13 @@ A command-line workflow for generating qualitative research codebooks with multi
 - [Introduction](#Introduction)
 - [Install](#install)
 # Introduction
+
 ### Project 
 [Management-Google Doc](https://docs.google.com/document/d/1yQeDEgtlWTl9SLAgr3bBJ9_l59sWQwWXsGzLFwkRVKY/edit?tab=t.utp4mklu2c15)
 
-### results link
-Study 1: [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
+### Experiments 
+#### Study 1: [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
+
 | Baseline | Description | Results|
 | --- | --- | --- |
 | Baseline1 | Single LLM + no perspective+ no discussion | [Codebook](https://docs.google.com/spreadsheets/d/1Q9zWtavjbn8rpxlq_AppBRiWt0577Yy5/edit?gid=267776357#gid=267776357)|
