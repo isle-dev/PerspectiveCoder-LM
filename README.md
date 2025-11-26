@@ -21,6 +21,7 @@ A command-line workflow for generating qualitative research codebooks with multi
 # Introduction
 ### LLM-based Multi-agent System 
 | Agent | Description|
+| --- | --- | 
 | Facilitator-Agent | Provide a Prologue: set the stage, introduce the workflow, remind all agents of their roles|
 ### Experiments and Analysis
 #### Datasets
