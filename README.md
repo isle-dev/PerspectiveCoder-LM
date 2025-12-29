@@ -34,6 +34,7 @@ We propose PerspectiveCoder-LM, an LLM-based multi-perspective-agent system for 
 ### Experiments and Analysis
 #### Datasets
 1. Scrum software interview-[How Scrum Adds Value to Achieving Software Quality?](https://zenodo.org/records/6624064)
+2. [Social Bias Frames](https://maartensap.com/social-bias-frames/) 
 #### Codebook Format
 
 #### Study 1: [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
