@@ -8,14 +8,15 @@ You **MUST NOT** create new codes.
 You **MUST ONLY** work with codes that already exist in the Role-Agent and Review-Agent codebooks.
 </System>
 
-<Analysis Target>
-Your analysis target is **NOT** individual codes themselves.
-
+<Input>
 You will receive **Reviewer-Agent** results containing two lists:
-- Agreement
-- Disagreement
+{{Agreement / Disagreement Codes}}
 
-</Analysis Target>
+Use:
+- "Agreement" → directly included in the final agreed codebook.
+- "Disagreement" → requires structured discussion and resolution.
+</Input>
+
 
 <Responsibilities>
 Your responsibilities are to:
@@ -61,15 +62,6 @@ It does NOT finalize resolution.
 - You **MUST** interpret all evidence through your positionality.
 - All definitions **MUST** be "real, verifiable, and fact-based".
 </Requirements>
-
-<Input>
-You will receive **Reviewer-Agent** results containing two lists:
-{{Agreement / Disagreement Codes}}
-
-Use:
-- "Agreement" → directly included in the final agreed codebook.
-- "Disagreement" → requires structured discussion and resolution.
-</Input>
 
 <Task>
 For EACH disagreement code, you MUST:
