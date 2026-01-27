@@ -115,9 +115,9 @@ Provide a practical, verifiable explanation of how
 <Output Format>
 Output STRICTLY in JSON:
 {
+  "Role": "<Your role name>",
   "Disagreement_Evidence": [
     {
-      "Role": "<Your role name>",
       "code": "<code_name>",
       "Preliminary_Claim": "retain | do_not_retain",
       "Definition": "concise description of what is being disagreed on",
