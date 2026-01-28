@@ -49,6 +49,13 @@ We propose PerspectiveCoder-LM, an LLM-based multi-perspective-agent system for 
 | Baseline2 | Three LLM + the same setting perspective of three roles with PerspectiveCoder-LM + no discussion |[Codebook](https://docs.google.com/spreadsheets/d/1FrMmHN5jOaKnq2HQieIQrza4hmcMC2p_/edit?gid=221633652#gid=221633652)|
 | PerspectiveCoder-LM |the perspective of three roles+ discussion process |[Codebook](https://docs.google.com/spreadsheets/d/1J70V_qEsVKNTsTc5v5WeV3SS1x8siR2e/edit?usp=sharing&ouid=112333598917962269336&rtpof=true&sd=true) |
 
+[StoryPerceptions-results]()
+
+| Baseline | Description | Results|
+| --- | --- | --- |
+| Baseline1 | Single LLM + no perspective+ no discussion | [Codebook](https://docs.google.com/spreadsheets/d/1Q9zWtavjbn8rpxlq_AppBRiWt0577Yy5/edit?gid=267776357#gid=267776357)|
+| Baseline2 | Three LLM + the same setting perspective of three roles with PerspectiveCoder-LM + no discussion |[Codebook](https://docs.google.com/spreadsheets/d/1FrMmHN5jOaKnq2HQieIQrza4hmcMC2p_/edit?gid=221633652#gid=221633652)|
+| PerspectiveCoder-LM |the perspective of three roles+ discussion process |[Codebook](https://docs.google.com/spreadsheets/d/1J70V_qEsVKNTsTc5v5WeV3SS1x8siR2e/edit?usp=sharing&ouid=112333598917962269336&rtpof=true&sd=true) |
 
 ## *Install*
 ### Features
