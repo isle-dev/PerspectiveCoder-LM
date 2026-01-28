@@ -41,7 +41,8 @@ We propose PerspectiveCoder-LM, an LLM-based multi-perspective-agent system for 
 7. [Social Chemistry](https://maxwellforbes.com/social-chemistry/)
 #### Codebook Format
 
-#### Study 1: [Scrum-results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
+#### Study 1: 
+1. [Scrum-results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
 
 | Baseline | Description | Results|
 | --- | --- | --- |
@@ -49,7 +50,7 @@ We propose PerspectiveCoder-LM, an LLM-based multi-perspective-agent system for 
 | Baseline2 | Three LLM + the same setting perspective of three roles with PerspectiveCoder-LM + no discussion |[Codebook](https://docs.google.com/spreadsheets/d/1FrMmHN5jOaKnq2HQieIQrza4hmcMC2p_/edit?gid=221633652#gid=221633652)|
 | PerspectiveCoder-LM |the perspective of three roles+ discussion process |[Codebook](https://docs.google.com/spreadsheets/d/1J70V_qEsVKNTsTc5v5WeV3SS1x8siR2e/edit?usp=sharing&ouid=112333598917962269336&rtpof=true&sd=true) |
 
-[StoryPerceptions-results]()
+2.[StoryPerceptions-results]()
 
 | Baseline | Description | Results|
 | --- | --- | --- |
