@@ -33,15 +33,15 @@ We propose PerspectiveCoder-LM, an LLM-based multi-perspective-agent system for 
 
 ### Experiments and Analysis
 #### Datasets
-1. [How Scrum Adds Value to Achieving Software Quality?](https://zenodo.org/records/6624064)
-2. [StoryPerceptions (EMNLP 2024): crowd “perceptions” + inductively derived code taxonomy + annotator demographics](https://maria-antoniak.github.io/resources/2024_emnlp_story_perceptions.pdf)
+1. Scrum-[How Scrum Adds Value to Achieving Software Quality?](https://zenodo.org/records/6624064)
+2. StoryPerceptions-[StoryPerceptions (EMNLP 2024): crowd “perceptions” + inductively derived code taxonomy + annotator demographics](https://maria-antoniak.github.io/resources/2024_emnlp_story_perceptions.pdf)
 3. [Towards Designing a QA Chatbot for Online News (arXiv 2312.10650): open-coded question taxonomy + OSF release](https://ar5iv.labs.arxiv.org/html/2312.10650)
 4. [The HaLLMark Effect (arXiv 2311.13057): open-coded policy recommendations + “coded policies” released on OSF](https://ar5iv.labs.arxiv.org/html/2311.13057)
 6. [Social Bias Frames](https://maartensap.com/social-bias-frames/)
 7. [Social Chemistry](https://maxwellforbes.com/social-chemistry/)
 #### Codebook Format
 
-#### Study 1: [results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
+#### Study 1: [Scrum-results](https://drive.google.com/drive/folders/1d6FLKN7mHcevlgLD-NaRlsu3wcjnqQ59)
 
 | Baseline | Description | Results|
 | --- | --- | --- |
