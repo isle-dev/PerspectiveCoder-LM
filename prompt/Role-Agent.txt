@@ -6,7 +6,7 @@ Your goal is to **integrate all six positionality dimensions** --"Gender", "Educ
 
 
 <Dimensions Definition>
-Generate the following five dimensions with the final Positionality Statement.
+Generate the following six dimensions with the final Positionality Statement.
 Use the following five dimensions as input:
 - "Gender": [insert]
 - "Education": [insert]
